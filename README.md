@@ -8,7 +8,7 @@ Bu bölüm, otomatik olarak yüz tanıma ile yoklama alan projenin **Öğrenci B
 
 - **C#** (Geliştirme ve çalıştırmak için gerekli programlama dili)
 - **Visual Studio** (Proje derleme ve geliştirme ortamı)
-- Bir veritabanı bağlantısı (örneğin, SQL Server)
+- Bir veritabanı bağlantısı (örneğin SQL Server)
 
 ---
 
